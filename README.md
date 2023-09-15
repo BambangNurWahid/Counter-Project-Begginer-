@@ -1,1 +1,1 @@
-# Counter-Project-Begginer-
+# Counter-Project-Beginner-
